@@ -1,4 +1,4 @@
-import math
+import math//调用函数库
 def quadratic(a,b,c):
     s=b*b-4*a*c
     m=-b+math.sqrt(s)
