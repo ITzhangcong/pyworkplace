@@ -5,4 +5,4 @@ def quadratic(a,b,c):
     m1=-b-math.sqrt(s)
     r1=m/2
     r2=m1/2
-    return 
+    return //返回参数
